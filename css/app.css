@@ -40,6 +40,11 @@
     background-color: #e4e8ff;
 }
 
+.log ul .player-heal {
+    color: white;
+    background-color: green;
+}
+
 .log ul .monster-turn {
     color: red;
     background-color: #ffc0c1;
